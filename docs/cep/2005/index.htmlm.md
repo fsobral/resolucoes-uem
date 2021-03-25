@@ -1,0 +1,233 @@
+ <body>
+<h1>Index of /2005/cep</h1>
+<table><tr><th><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr><tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[DIR]"></td><td><a href="/2005/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="001cep2005.htm">001cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="002cep2005.htm">002cep2005.htm</a></td><td align="right">11-Apr-2005 16:16  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="003cep2005.htm">003cep2005.htm</a></td><td align="right">11-Apr-2005 16:16  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="004cep2005.htm">004cep2005.htm</a></td><td align="right">11-Apr-2005 16:16  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="005cep2005.htm">005cep2005.htm</a></td><td align="right">11-Apr-2005 16:16  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="006cep2005.htm">006cep2005.htm</a></td><td align="right">11-Apr-2005 16:16  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="007cep2005.htm">007cep2005.htm</a></td><td align="right">11-Apr-2005 16:16  </td><td align="right">186K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="008cep2005.htm">008cep2005.htm</a></td><td align="right">11-Apr-2005 16:16  </td><td align="right">177K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="009cep2005.htm">009cep2005.htm</a></td><td align="right">11-Apr-2005 16:16  </td><td align="right">182K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="010cep2005.htm">010cep2005.htm</a></td><td align="right">11-Apr-2005 16:16  </td><td align="right">193K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="011cep2005.htm">011cep2005.htm</a></td><td align="right">11-Apr-2005 16:16  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="012cep2005.htm">012cep2005.htm</a></td><td align="right">11-Apr-2005 16:16  </td><td align="right">208K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="013cep2005.htm">013cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="014-Acep2005.htm">014-Acep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="014cep2005.htm">014cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="015cep2005.htm">015cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">189K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="016cep2005.htm">016cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">212K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="017cep2005.htm">017cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">513K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="018cep2005.htm">018cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">181K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="019cep2005.htm">019cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">419K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="020cep2005.htm">020cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="021cep2005.htm">021cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="022cep2005.htm">022cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="023cep2005.htm">023cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="024cep2005.htm">024cep2005.htm</a></td><td align="right">11-Apr-2005 16:16  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="025cep2005.htm">025cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="026cep2005.htm">026cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="027cep2005.htm">027cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">213K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="028cep2005.htm">028cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">189K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="029cep2005.htm">029cep2005.htm</a></td><td align="right">11-Apr-2005 16:17  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="030cep2005.htm">030cep2005.htm</a></td><td align="right">19-May-2005 08:41  </td><td align="right">246K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="031cep2005.htm">031cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="032cep2005.htm">032cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="033cep2005.htm">033cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="034cep2005.htm">034cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="035cep2005.htm">035cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="036cep2005.htm">036cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="037cep2005.htm">037cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">202K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="038cep2005.htm">038cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="039cep2005.htm">039cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="040cep2005.htm">040cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="041cep2005.htm">041cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="042cep2005.htm">042cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">188K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="043cep2005.htm">043cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">221K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="044cep2005.htm">044cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">196K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="045cep2005.htm">045cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="046cep2005.htm">046cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="047cep2005.htm">047cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="048cep2005.htm">048cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="049cep2005.htm">049cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="050cep2005.htm">050cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="051cep2005.htm">051cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="052cep2005.htm">052cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="053cep2005.htm">053cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="054cep2005.htm">054cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="055cep2005.htm">055cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">174K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="056cep2005.htm">056cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="057cep2005.htm">057cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">173K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="058cep2005.htm">058cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="059cep2005.htm">059cep2005.htm</a></td><td align="right">11-Apr-2005 16:19  </td><td align="right">189K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="060cep2005.htm">060cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="061cep2005.htm">061cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">351K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="062cep2005.htm">062cep2005.htm</a></td><td align="right">19-May-2005 08:41  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="063cep2005.htm">063cep2005.htm</a></td><td align="right">19-May-2005 08:40  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="064cep2005.htm">064cep2005.htm</a></td><td align="right">19-May-2005 08:41  </td><td align="right">200K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="065cep2005.htm">065cep2005.htm</a></td><td align="right">14-Jun-2005 10:56  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="066cep2005.htm">066cep2005.htm</a></td><td align="right">14-Jun-2005 10:56  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="067cep2005.htm">067cep2005.htm</a></td><td align="right">14-Jun-2005 10:56  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="068cep2005.htm">068cep2005.htm</a></td><td align="right">14-Jun-2005 10:56  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="069cep2005.htm">069cep2005.htm</a></td><td align="right">14-Jun-2005 10:56  </td><td align="right">176K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="070cep2005.htm">070cep2005.htm</a></td><td align="right">14-Jun-2005 10:57  </td><td align="right">177K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="071cep2005.htm">071cep2005.htm</a></td><td align="right">14-Jun-2005 10:57  </td><td align="right">203K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="072cep2005.htm">072cep2005.htm</a></td><td align="right">30-May-2005 14:40  </td><td align="right">176K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="073cep2005.htm">073cep2005.htm</a></td><td align="right">30-May-2005 14:40  </td><td align="right">176K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="074cep2005.htm">074cep2005.htm</a></td><td align="right">30-May-2005 14:40  </td><td align="right">176K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="075cep2005.htm">075cep2005.htm</a></td><td align="right">30-May-2005 14:40  </td><td align="right">183K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="076cep2005.htm">076cep2005.htm</a></td><td align="right">30-May-2005 14:40  </td><td align="right">175K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="077cep2005.htm">077cep2005.htm</a></td><td align="right">30-May-2005 14:40  </td><td align="right">186K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="078cep2005.htm">078cep2005.htm</a></td><td align="right">30-May-2005 14:40  </td><td align="right">197K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="079cep2005.htm">079cep2005.htm</a></td><td align="right">30-May-2005 14:40  </td><td align="right">196K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="080cep2005.htm">080cep2005.htm</a></td><td align="right">10-Jun-2005 11:19  </td><td align="right">176K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="081cep2005.htm">081cep2005.htm</a></td><td align="right">10-Jun-2005 11:19  </td><td align="right">176K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="082cep2005.htm">082cep2005.htm</a></td><td align="right">10-Jun-2005 11:19  </td><td align="right">247K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="083cep2005.htm">083cep2005.htm</a></td><td align="right">10-Jun-2005 11:19  </td><td align="right">177K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="084cep2005.htm">084cep2005.htm</a></td><td align="right">10-Jun-2005 11:19  </td><td align="right">346K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="085cep2005.htm">085cep2005.htm</a></td><td align="right">06-Oct-2005 15:09  </td><td align="right">468K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="086cep2005.htm">086cep2005.htm</a></td><td align="right">10-Jun-2005 11:19  </td><td align="right">382K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="087cep2005.htm">087cep2005.htm</a></td><td align="right">10-Jun-2005 11:19  </td><td align="right">397K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="088cep2005.htm">088cep2005.htm</a></td><td align="right">10-Jun-2005 11:20  </td><td align="right">384K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="089cep2005.htm">089cep2005.htm</a></td><td align="right">10-Jun-2005 11:20  </td><td align="right">271K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="090cep2005.htm">090cep2005.htm</a></td><td align="right">10-Jun-2005 11:20  </td><td align="right">289K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="091cep2005.htm">091cep2005.htm</a></td><td align="right">10-Jun-2005 11:20  </td><td align="right">1.0M</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="092cep2005.htm">092cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.2K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="093cep2005-calendario.htm">093cep2005-calendario.htm</a></td><td align="right">08-Aug-2005 11:23  </td><td align="right"> 88K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="093cep2005-cronograma.htm">093cep2005-cronograma.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right"> 70K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="093cep2005-lista%20de%20feriados.htm">093cep2005-lista de feriados.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">5.0K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="093cep2005-per%edodo%20letivo.htm">093cep2005-período letivo.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right"> 86K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="093cep2005.htm">093cep2005.htm</a></td><td align="right">08-Aug-2005 11:23  </td><td align="right">3.0K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="094cep2005.htm">094cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.2K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="095cep2005.htm">095cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.3K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="096cep2005.htm">096cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.3K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="097cep2005.htm">097cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.3K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="098cep2005.htm">098cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.2K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="099cep2005.htm">099cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.2K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="100cep2005.htm">100cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.4K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="101cep2005.htm">101cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.1K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="102cep2005.htm">102cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.3K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="103cep2005.htm">103cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right"> 13K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="104cep2005.htm">104cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.3K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="105cep2005.htm">105cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.3K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="106cep2005.htm">106cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.3K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="107cep2005.htm">107cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.2K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="108cep2005.htm">108cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">5.0K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="109cep2005.htm">109cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right"> 14K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="110cep2005.htm">110cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right"> 15K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="111cep2005.htm">111cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right"> 20K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="112cep2005.htm">112cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.5K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="113cep2005.htm">113cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.7K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="114cep2005.htm">114cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.5K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="115cep2005.htm">115cep2005.htm</a></td><td align="right">08-Aug-2005 11:23  </td><td align="right">3.4K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="116cep2005.htm">116cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.4K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="117cep2005.htm">117cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right">3.4K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="118cep2005.htm">118cep2005.htm</a></td><td align="right">08-Aug-2005 11:24  </td><td align="right"> 36K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="119cep2005.htm">119cep2005.htm</a></td><td align="right">01-Sep-2005 14:32  </td><td align="right">255K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="120cep2005.htm">120cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">196K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="121cep2005.htm">121cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">194K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="122cep2005.htm">122cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">195K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="123cep2005.htm">123cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">195K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="124cep2005.htm">124cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">202K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="125cep2005.htm">125cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">197K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="126cep2005.htm">126cep2005.htm</a></td><td align="right">29-Nov-2005 08:57  </td><td align="right"> 19K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="127cep2005.htm">127cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">208K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="128cep2005.htm">128cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">196K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="129cep2005.htm">129cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">196K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="130cep2005.htm">130cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">202K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="131cep2005.htm">131cep2005.htm</a></td><td align="right">15-Sep-2005 16:48  </td><td align="right">196K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="132cep2005.htm">132cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">326K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="133cep2005.htm">133cep2005.htm</a></td><td align="right">15-Sep-2005 16:48  </td><td align="right">267K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="134cep2005.htm">134cep2005.htm</a></td><td align="right">15-Sep-2005 16:48  </td><td align="right">235K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="135cep2005.htm">135cep2005.htm</a></td><td align="right">15-Sep-2005 16:48  </td><td align="right">202K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="136cep2005.htm">136cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="137cep2005.htm">137cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="138cep2005.htm">138cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">197K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="139cep2005.htm">139cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">197K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="140cep2005.htm">140cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="141cep2005.htm">141cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">197K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="142cep2005.htm">142cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">197K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="143cep2005.htm">143cep2005.htm</a></td><td align="right">13-Sep-2005 15:43  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="144cep2005.htm">144cep2005.htm</a></td><td align="right">25-Oct-2005 11:10  </td><td align="right">197K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="145cep2005.htm">145cep2005.htm</a></td><td align="right">25-Oct-2005 11:02  </td><td align="right">197K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="146cep2005.htm">146cep2005.htm</a></td><td align="right">09-Dec-2005 10:44  </td><td align="right">114K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="147cep2005.htm">147cep2005.htm</a></td><td align="right">29-Nov-2005 08:56  </td><td align="right"> 15K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="148cep2005.htm">148cep2005.htm</a></td><td align="right">29-Nov-2005 08:56  </td><td align="right"> 15K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="149cep2005.htm">149cep2005.htm</a></td><td align="right">25-Oct-2005 11:05  </td><td align="right">378K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="150cep2005.htm">150cep2005.htm</a></td><td align="right">25-Oct-2005 11:05  </td><td align="right">211K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="151cep2005.htm">151cep2005.htm</a></td><td align="right">25-Oct-2005 11:06  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="152cep2005.htm">152cep2005.htm</a></td><td align="right">25-Oct-2005 11:06  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="153cep2005.htm">153cep2005.htm</a></td><td align="right">25-Oct-2005 11:07  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="154cep2005.htm">154cep2005.htm</a></td><td align="right">25-Oct-2005 11:07  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="155cep2005.htm">155cep2005.htm</a></td><td align="right">25-Oct-2005 11:08  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="156cep2005.htm">156cep2005.htm</a></td><td align="right">25-Oct-2005 11:08  </td><td align="right">197K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="157cep2005.htm">157cep2005.htm</a></td><td align="right">25-Oct-2005 11:09  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="158cep2005.htm">158cep2005.htm</a></td><td align="right">25-Oct-2005 11:09  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="159cep2005.htm">159cep2005.htm</a></td><td align="right">25-Oct-2005 11:02  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="160cep2005.htm">160cep2005.htm</a></td><td align="right">25-Oct-2005 11:10  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="161cep2005.htm">161cep2005.htm</a></td><td align="right">25-Oct-2005 11:11  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="162cep2005.htm">162cep2005.htm</a></td><td align="right">25-Oct-2005 11:11  </td><td align="right">198K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="163cep2005.htm">163cep2005.htm</a></td><td align="right">25-Oct-2005 11:12  </td><td align="right">211K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="164cep2005.htm">164cep2005.htm</a></td><td align="right">20-Dec-2005 16:07  </td><td align="right">462K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="165cep2005.htm">165cep2005.htm</a></td><td align="right">18-Jun-2007 13:49  </td><td align="right">379K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="166cep2005.htm">166cep2005.htm</a></td><td align="right">25-Jan-2006 16:21  </td><td align="right">231K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="167cep2005.htm">167cep2005.htm</a></td><td align="right">25-Jan-2006 16:20  </td><td align="right">664K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="168cep2005.htm">168cep2005.htm</a></td><td align="right">23-Feb-2011 08:47  </td><td align="right">662K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="169cep2005.htm">169cep2005.htm</a></td><td align="right">22-Dec-2005 10:54  </td><td align="right">248K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="170cep2005.htm">170cep2005.htm</a></td><td align="right">06-Feb-2007 09:59  </td><td align="right">937K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="171cep2005.htm">171cep2005.htm</a></td><td align="right">13-Jan-2006 08:14  </td><td align="right">274K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="172cep2005.htm">172cep2005.htm</a></td><td align="right">08-Nov-2005 14:18  </td><td align="right">199K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="173cep2005.htm">173cep2005.htm</a></td><td align="right">08-Nov-2005 14:18  </td><td align="right">199K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="174cep2005.htm">174cep2005.htm</a></td><td align="right">08-Nov-2005 14:17  </td><td align="right">199K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="175cep2005.htm">175cep2005.htm</a></td><td align="right">29-Nov-2005 08:57  </td><td align="right">3.7K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="176cep2005.htm">176cep2005.htm</a></td><td align="right">29-Nov-2005 08:57  </td><td align="right"> 20K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="177cep2005.htm">177cep2005.htm</a></td><td align="right">29-Nov-2005 08:57  </td><td align="right">199K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="178cep2005%20.htm">178cep2005 .htm</a></td><td align="right">23-Feb-2011 09:00  </td><td align="right">411K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="179cep2005.htm">179cep2005.htm</a></td><td align="right">24-Jan-2006 13:40  </td><td align="right">1.1M</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="180cep2005.htm">180cep2005.htm</a></td><td align="right">10-Jan-2006 16:20  </td><td align="right">711K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="181cep2005.htm">181cep2005.htm</a></td><td align="right">19-May-2006 08:25  </td><td align="right">1.2M</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="182cep2005.htm">182cep2005.htm</a></td><td align="right">13-Jan-2006 17:25  </td><td align="right">814K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="183cep2005.htm">183cep2005.htm</a></td><td align="right">06-Feb-2006 14:45  </td><td align="right">753K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="184cep2005.htm">184cep2005.htm</a></td><td align="right">22-Dec-2005 11:06  </td><td align="right">554K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="185cep2005.htm">185cep2005.htm</a></td><td align="right">09-Dec-2005 11:14  </td><td align="right">279K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="186cep2005.htm">186cep2005.htm</a></td><td align="right">09-Dec-2005 11:15  </td><td align="right">278K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="187cep2005.htm">187cep2005.htm</a></td><td align="right">09-Dec-2005 11:16  </td><td align="right">488K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="188cep2005.htm">188cep2005.htm</a></td><td align="right">09-Dec-2005 11:17  </td><td align="right">479K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="189cep2005.htm">189cep2005.htm</a></td><td align="right">09-Dec-2005 11:18  </td><td align="right">479K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="190cep2005.htm">190cep2005.htm</a></td><td align="right">09-Dec-2005 11:20  </td><td align="right">647K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="191cep2005.htm">191cep2005.htm</a></td><td align="right">09-Dec-2005 11:13  </td><td align="right">501K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="192cep2005.htm">192cep2005.htm</a></td><td align="right">09-Dec-2005 11:41  </td><td align="right">215K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="193cep2005.htm">193cep2005.htm</a></td><td align="right">20-Dec-2005 08:02  </td><td align="right">216K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="194cep2005.htm">194cep2005.htm</a></td><td align="right">11-Jan-2006 08:58  </td><td align="right">449K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="195cep2005.htm">195cep2005.htm</a></td><td align="right">12-Jan-2006 11:17  </td><td align="right">603K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="196cep2005.htm">196cep2005.htm</a></td><td align="right">22-Dec-2005 10:17  </td><td align="right">284K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="197cep2005.htm">197cep2005.htm</a></td><td align="right">31-Mar-2006 13:34  </td><td align="right"> 78K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="198cep2005.htm">198cep2005.htm</a></td><td align="right">20-Dec-2005 15:39  </td><td align="right">304K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="199cep2005.htm">199cep2005.htm</a></td><td align="right">22-Dec-2005 10:18  </td><td align="right">302K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="200cep2005.htm">200cep2005.htm</a></td><td align="right">20-Dec-2005 15:41  </td><td align="right">250K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="201cep2005.htm">201cep2005.htm</a></td><td align="right">13-Jan-2006 08:13  </td><td align="right">248K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="202cep2005.htm">202cep2005.htm</a></td><td align="right">20-Dec-2005 15:43  </td><td align="right">224K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="203cep2005.htm">203cep2005.htm</a></td><td align="right">22-Dec-2005 10:19  </td><td align="right">222K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="204cep2005.htm">204cep2005.htm</a></td><td align="right">20-Dec-2005 15:43  </td><td align="right">295K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="205cep2005.htm">205cep2005.htm</a></td><td align="right">20-Dec-2005 15:58  </td><td align="right"> 14K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="206cep2005.htm">206cep2005.htm</a></td><td align="right">24-Jan-2006 13:41  </td><td align="right">596K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="207cep2005.htm">207cep2005.htm</a></td><td align="right">22-Dec-2005 10:19  </td><td align="right">220K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="208cep2005.htm">208cep2005.htm</a></td><td align="right">21-Dec-2005 16:35  </td><td align="right">455K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="209cep2005.htm">209cep2005.htm</a></td><td align="right">22-Dec-2005 10:20  </td><td align="right">220K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="210cep2005.htm">210cep2005.htm</a></td><td align="right">22-Dec-2005 10:20  </td><td align="right">220K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="211cep2005.htm">211cep2005.htm</a></td><td align="right">27-Jan-2006 08:24  </td><td align="right">268K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="212cep2005.htm">212cep2005.htm</a></td><td align="right">20-Dec-2005 15:44  </td><td align="right">295K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="213cep2005.htm">213cep2005.htm</a></td><td align="right">27-Jan-2006 08:23  </td><td align="right">262K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="214cep2005.htm">214cep2005.htm</a></td><td align="right">20-Dec-2005 15:45  </td><td align="right">220K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="215cep2005.htm">215cep2005.htm</a></td><td align="right">07-Feb-2006 17:30  </td><td align="right">346K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="216cep2005.htm">216cep2005.htm</a></td><td align="right">20-Dec-2005 15:45  </td><td align="right">264K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="217cep2005.htm">217cep2005.htm</a></td><td align="right">22-Dec-2005 10:24  </td><td align="right">3.5K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="218cep2005.htm">218cep2005.htm</a></td><td align="right">24-Jan-2006 13:42  </td><td align="right">215K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="219cep2005.htm">219cep2005.htm</a></td><td align="right">10-Jan-2006 16:21  </td><td align="right">291K</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="220cep2005.htm">220cep2005.htm</a></td><td align="right">20-Dec-2005 15:38  </td><td align="right">266K</td></tr>
+<tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.2.8 (CentOS) Server at www.scs.uem.br Port 80</address>
+</body></html>

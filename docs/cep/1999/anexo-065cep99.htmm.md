@@ -1,0 +1,987 @@
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+</FONT><FONT FACE="Arial" SIZE=2><P>/...Res. n<U><SUP>o</U></SUP> 065/99-CEP</P>
+</FONT><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">ANEXO I</P>
+</FONT><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">GRADE CURRICULAR DO CURSO DE CI&Ecirc;NCIAS SOCIAIS  BACHARELADO</P>
+</B><P ALIGN="CENTER"></P></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=604>
+<TR><TD WIDTH="72%" VALIGN="MIDDLE" ROWSPAN=2>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">1<SUP>ª </SUP>S&eacute;rie</B></FONT></TD>
+<TD WIDTH="19%" VALIGN="MIDDLE" COLSPAN=3>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Carga Hor&aacute;ria</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="MIDDLE" ROWSPAN=2>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Depto</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="MIDDLE">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Sem.</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="MIDDLE" COLSPAN=2>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Anual</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135496">Introdu&ccedil;&atilde;o &agrave; Ci&ecirc;ncia Pol&iacute;tica</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135506">Hist&oacute;ria do Pensamento Antropol&oacute;gico I</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135501">Fundamentos da Teoria Sociol&oacute;gica</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135511">Epistemologia das Ci&ecirc;ncias Sociais </A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135518">Metodologia da Produ&ccedil;&atilde;o de Textos</A><B> </B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DLE</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135512">Hist&oacute;ria Geral</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DHI</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135515">Geografia Humana</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DGE</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Total</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">20</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">680</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=5 HEIGHT=35>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">2<SUP>ª</SUP> S&eacute;rie</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135497">Institui&ccedil;&otilde;es e Pensamento Pol&iacute;tico no S&eacute;culo XIX</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135507">Hist&oacute;ria do Pensamento Antropol&oacute;gico II</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135502">Teoria Sociol&oacute;gica I</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135504">Pensamento Social Brasileiro</A> </FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP" HEIGHT=11>
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135517">Economia</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=11>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=11>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2 HEIGHT=11>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCO</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135514">Filosofia</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P>Disciplina Optativa I</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Total</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">20</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">680</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=5 HEIGHT=35>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">3<SUP>ª</SUP> S&eacute;rie</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135498">Forma&ccedil;&atilde;o do Estado Brasileiro</A> </FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135503">Teoria Sociol&oacute;gica II</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP" HEIGHT=11>
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135519">M&eacute;todos e T&eacute;cnicas de Pesquisa em Ci&ecirc;ncias Sociais</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=11>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=11>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2 HEIGHT=11>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135513">Hist&oacute;ria do Brasil</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DHI</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135516">Estat&iacute;stica</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DES</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135521">Semin&aacute;rios de Pesquisa</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Disciplina optativa II</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Total</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">18</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">612</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=5 HEIGHT=35>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">4<SUP>ª</SUP> S&eacute;rie</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135499">Pensamento Pol&iacute;tico Contempor&acirc;neo</A> </FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135509">Antropologia das Sociedades Complexas</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135508">Etnologia Ind&iacute;gena</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135520">Monografia</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Disciplina Optativa III</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Total</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">16</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">544</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<FONT FACE="Arial" SIZE=3></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=548>
+<TR><TD WIDTH="79%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Atividades Acad&ecirc;micas Complementares</B></FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="RIGHT">110</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="79%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Total da Carga Hor&aacute;ria do Curr&iacute;culo</B></FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="RIGHT">2626</B></FONT></TD>
+</TR>
+</TABLE>
+
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">..../</P>
+</FONT><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+</FONT><FONT FACE="Arial" SIZE=2><P>/....Anexo I da Res. 065/99-CEP&#9;&#9;&#9;&#9;&#9;&#9;                       fl. 03</P>
+</FONT><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">GRADE CURRICULAR DO CURSO DE CI&Ecirc;NCIAS SOCIAIS  LICENCIATURA</P>
+</B><P ALIGN="CENTER"></P></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=604>
+<TR><TD WIDTH="72%" VALIGN="MIDDLE" ROWSPAN=2>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">1ª S&eacute;rie</B></FONT></TD>
+<TD WIDTH="19%" VALIGN="MIDDLE" COLSPAN=3>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Carga Hor&aacute;ria</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="MIDDLE" ROWSPAN=2>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Depto</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="MIDDLE">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Sem.</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="MIDDLE" COLSPAN=2>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Anual</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Introdu&ccedil;&atilde;o &agrave; Ci&ecirc;ncia Pol&iacute;tica</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Hist&oacute;ria do Pensamento Antropol&oacute;gico I</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Fundamentos da Teoria Sociol&oacute;gica</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Epistemologia das Ci&ecirc;ncias Sociais</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Metodologia da Produ&ccedil;&atilde;o de Textos<B> </B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DLE</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Hist&oacute;ria Geral</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DHI</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Geografia Humana</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DGE</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Total</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">20</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">680</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=5 HEIGHT=35>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">2ª S&eacute;rie</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Institui&ccedil;&otilde;es e Pensamento Pol&iacute;tico no S&eacute;culo XIX</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Hist&oacute;ria do Pensamento Antropol&oacute;gico II</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Teoria Sociol&oacute;gica I</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Pensamento Social Brasileiro </FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP" HEIGHT=7>
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Economia</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=7>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=7>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2 HEIGHT=7>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCO</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135524">Psicologia da Educa&ccedil;&atilde;o</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DTP</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P>Disciplina Optativa I</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Total</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">20</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">680</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=5 HEIGHT=35>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">3<SUP>ª</SUP> S&eacute;rie</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Forma&ccedil;&atilde;o do Estado Brasileiro </FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Teoria Sociol&oacute;gica II</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP" HEIGHT=7>
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">M&eacute;todos e T&eacute;cnicas de Pesquisa em Ci&ecirc;ncias Sociais</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=7>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=7>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2 HEIGHT=7>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Hist&oacute;ria do Brasil</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DHI</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Estat&iacute;stica</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DES</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135523">Pr&aacute;tica de Ensino em Ci&ecirc;ncias Sociais I</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135526">Did&aacute;tica</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DTP</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Total</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">18</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">612</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=5 HEIGHT=35>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">4<SUP>ª</SUP> S&eacute;rie</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Pensamento Pol&iacute;tico Contempor&acirc;neo </FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Antropologia das Sociedades Complexas</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Etnologia Ind&iacute;gena</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">136</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"><A NAME="_Toc434135525">Estrutura e Funcionamento da Educa&ccedil;&atilde;o Brasileira</A></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DTP</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Pr&aacute;tica de Ensino em Ci&ecirc;ncias Sociais II</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">5</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">170</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Disciplina Optativa II</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">2</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="72%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Total</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">19</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">646</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<FONT SIZE=2></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=548>
+<TR><TD WIDTH="79%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Atividades Acad&ecirc;micas Complementares</B></FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="RIGHT">110</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="79%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Total da Carga Hor&aacute;ria do Curr&iacute;culo</B></FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="RIGHT"> 2728</B></FONT></TD>
+</TR>
+</TABLE>
+
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">..../</P>
+</FONT><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+</FONT><FONT FACE="Arial" SIZE=2><P>/....Anexo I da Res. 065/99-CEP&#9;&#9;&#9;&#9;&#9;&#9;                       fl. 04</P>
+</B></FONT><FONT FACE="Arial" SIZE=3>
+</FONT><FONT SIZE=2><P>&nbsp;</P></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=585>
+<TR><TD WIDTH="58%" VALIGN="TOP" HEIGHT=24>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DISCIPLINAS OPTATIVAS (*)</B></FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP" HEIGHT=24>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">C/H</B></FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP" HEIGHT=24>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DEPTO</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">N&uacute;cleo de Ci&ecirc;ncia Pol&iacute;tica I</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">N&uacute;cleo de Ci&ecirc;ncia  Pol&iacute;tica II  </FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">N&uacute;cleo de Ci&ecirc;ncia Pol&iacute;tica III</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">N&uacute;cleo  de Sociologia I</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">N&uacute;cleo de Sociologia II</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">N&uacute;cleo de Sociologia III</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">N&uacute;cleo de Sociologia IV</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">N&uacute;cleo de Antropologia I </FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">N&uacute;cleo de Antropologia II</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">N&uacute;cleo de Antropologia III</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">68</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">DCS</FONT></TD>
+</TR>
+</TABLE>
+
+<FONT FACE="Arial" SIZE=2><P ALIGN="JUSTIFY"></P><DIR>
+
+<P ALIGN="JUSTIFY">(*)  Ser&atilde;o ofertadas em um n&uacute;mero m&iacute;nimo de duas e de acordo com a disponibilidade e especialidade dos professores.</P>
+</FONT><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY"></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></DIR>
+</FONT>
+<P ALIGN="CENTER"><CENTER><TABLE BORDER CELLSPACING=2 CELLPADDING=4 WIDTH=595>
+<TR><TD VALIGN="TOP" COLSPAN=4 HEIGHT=23>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">INTEGRALIZA&Ccedil;&Atilde;O CURRICULAR</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="83%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P>1 PRAZO M&Eacute;DIO PARA INTEGRALIZA&Ccedil;&Atilde;O CURRICULAR  BACHARELADO</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Anos</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="83%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P>2 PRAZO M&Aacute;XIMO PARA INTEGRALIZA&Ccedil;&Atilde;O CURRICULAR  LICENCIATURA</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">4</FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Anos</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="83%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P>3 PRAZO M&Aacute;XIMO PARA INTEGRALIZA&Ccedil;&Atilde;O CURRICULAR</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">8</FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">Anos</FONT></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<FONT FACE="Arial" SIZE=3>
+<P>&nbsp;</P>
+</FONT><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">..../</P>
+</B></FONT><FONT SIZE=2>
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=2><P>/...Res. n<U><SUP>o</U></SUP> 065/99-CEP</P>
+</FONT><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">ANEXO II</P>
+</B></FONT><FONT SIZE=2>
+</FONT><B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">EMENTAS DAS DISCIPLINAS DO CURSO DE CI&Ecirc;NCIAS SOCIAIS </P>
+</B><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+<B><P ALIGN="JUSTIFY">INTRODU&Ccedil;&Atilde;O &Agrave; CI&Ecirc;NCIA POL&Iacute;TICA</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo introdut&oacute;rio, enfocando as categorias centrais de Ci&ecirc;ncia Pol&iacute;tica, tendo como pano de fundo a forma&ccedil;&atilde;o hist&oacute;rica da sociedade capitalista e do Estado Moderno. An&aacute;lise das principais tem&aacute;ticas do pensamento pol&iacute;tico cl&aacute;ssico.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">HIST&Oacute;RIA DO PENSAMENTO ANTROPOL&Oacute;GICO I</P>
+</B><P ALIGN="JUSTIFY">Ementa Estudo do pensamento antropol&oacute;gico e da produ&ccedil;&atilde;o intelectual, mediante o exame da quest&atilde;o da alteridade, desde o s&eacute;culo XVI at&eacute; a emerg&ecirc;ncia do estruturalismo de L&eacute;vi-Strauss.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">FUNDAMENTOS DA TEORIA SOCIOL&Oacute;GICA</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo acerca do surgimento da Sociologia entre as Ci&ecirc;ncias Sociais, das quest&otilde;es sociais que inquietavam a sociedade europ&eacute;ia do s&eacute;culo XIX e das respostas te&oacute;ricas formuladas pelos fundadores do pensamento sociol&oacute;gico (Comte, Durkheim, Marx e Weber).</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">EPISTEMOLOGIA DAS CI&Ecirc;NCIAS SOCIAIS </P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo cr&iacute;tico dos fundamentos filos&oacute;ficos da constru&ccedil;&atilde;o das teorias e dos m&eacute;todos em Ci&ecirc;ncias Sociais.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">METODOLOGIA DA PRODU&Ccedil;&Atilde;O DE TEXTOS</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Introdu&ccedil;&atilde;o ao estudo do texto acad&ecirc;mico na educa&ccedil;&atilde;o superior.<B> </P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">HIST&Oacute;RIA GERAL</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo da emerg&ecirc;ncia e consolida&ccedil;&atilde;o do mundo capitalista, dos movimentos contestat&oacute;rios da ordem estabelecida e das rela&ccedil;&otilde;es internacionais contempor&acirc;nea com &ecirc;nfase na forma&ccedil;&atilde;o e desdobramento dos blocos de poder.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">GEOGRAFIA HUMANA</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Pretende familiarizar o discente com a hist&oacute;ria, intrumental anal&iacute;tico e te&oacute;rico da Geografia. Reconhecendo o di&aacute;logo existente entre a Geografia e as Ci&ecirc;ncias Sociais.</P>
+<B>
+<P>INSTITUI&Ccedil;&Otilde;ES E PENSAMENTO POL&Iacute;TICO NO S&Eacute;CULO XIX</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo das correntes pol&iacute;ticas que tencionaram o universo pol&iacute;tico no S&eacute;culo XIX: o pensamento liberal, a cr&iacute;tica hegeliana, a problem&aacute;tica marxista do Estado e o pensamento anarquista.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">HIST&Oacute;RIA DO PENSAMENTO ANTROPOL&Oacute;GICO II</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo dos principais paradigmas antropol&oacute;gicos do Estruturalismo ao P&oacute;s-Modernismo, enfatizando as quest&otilde;es referentes &agrave; articula&ccedil;&atilde;o entre estrutura, organiza&ccedil;&atilde;o e processos sociais.</P>
+</FONT><B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">..../</P>
+</FONT><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+</FONT><FONT FACE="Arial" SIZE=2><P>/....Anexo II da Res. 065/99-CEP&#9;&#9;&#9;&#9;&#9;&#9;                       fl. 06</P>
+</B></FONT><FONT FACE="Arial" SIZE=3>
+<B><P ALIGN="JUSTIFY">&nbsp;</P>
+<P ALIGN="JUSTIFY">TEORIA SOCIOL&Oacute;GICA I</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo das principais vertentes te&oacute;ricas que se formaram como desdobramento do pensamento sociol&oacute;gico cl&aacute;ssico.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">PENSAMENTO SOCIAL BRASILEIRO </P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo do processo de forma&ccedil;&atilde;o do pensamento social brasileiro, a partir da compreens&atilde;o das diversas perspectivas anal&iacute;ticas que contribu&iacute;ram para o conhecimento das rela&ccedil;&otilde;es sociais no Brasil.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">ECONOMIA</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo da forma&ccedil;&atilde;o e desenvolvimento do capital, segundo os pensamentos cl&aacute;ssico e marxista.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">FILOSOFIA</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo do car&aacute;ter da reflex&atilde;o filos&oacute;fica na perspectiva da hist&oacute;ria e da filosofia.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">FORMA&Ccedil;&Atilde;O DO ESTADO BRASILEIRO</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;An&aacute;lise das teorias existentes acerca da Forma&ccedil;&atilde;o do Estado Brasileiro. An&aacute;lise das institui&ccedil;&otilde;es e o debate pol&iacute;tico no per&iacute;odo republicano. </P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">TEORIA SOCIOL&Oacute;GICA II</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo da sociologia contempor&acirc;nea a partir da Segunda metade do s&eacute;culo XX com &ecirc;nfase em seus principais paradigmas e correntes te&oacute;ricas.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">M&Eacute;TODOS E TECNICAS DE PESQUISA EM CI&Ecirc;NCIAS SOCIAIS</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Introdu&ccedil;&atilde;o &agrave; pesquisa em Ci&ecirc;ncias Sociais</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">HIST&Oacute;RIA DO BRASIL</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo do Brasil contempor&acirc;neo: institui&ccedil;&otilde;es, classes, movimentos sociais, cultura e poder, atrav&eacute;s de diferentes abordagens historiogr&aacute;ficas.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">ESTAT&Iacute;STICA</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;An&aacute;lise descritiva de dados, medidas de associa&ccedil;&atilde;o.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">SEMIN&Aacute;RIOS DE PESQUISA</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Discuss&atilde;o entre professores e alunos acerca das pesquisas docentes e discentes em desenvolvimento no departamento,</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">PENSAMENTO POL&Iacute;TICO CONTEMPOR&Acirc;NEO </P>
+</B><P ALIGN="JUSTIFY">Ementa: Estudo das principais correntes te&oacute;ricas referentes &agrave;s transforma&ccedil;&otilde;es do Estado Capitalista a partir de 1945.</P>
+</FONT><B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">..../</P>
+</FONT><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+</FONT><FONT FACE="Arial" SIZE=2><P>/....Anexo II da Res. 065/99-CEP&#9;&#9;&#9;&#9;&#9;&#9;                       fl. 07</P>
+</B></FONT><FONT FACE="Arial" SIZE=3>
+<B><P ALIGN="JUSTIFY">&nbsp;</P>
+<P ALIGN="JUSTIFY">ANTROPOLOGIA DAS SOCIEDADES COMPLEXAS</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo das quest&otilde;es te&oacute;ricas e metodol&oacute;gicas colocadas quando o objeto da pesquisa antropol&oacute;gica constitui-se nas chamadas sociedades complexas, bem como estudo da viol&ecirc;ncia urbana e suas dimens&otilde;es constitutivas.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">ETNOLOGIA IND&Iacute;GENA</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo da hetorogeneidade s&oacute;cio-cultural dos povos ind&iacute;genas em geral e, em particular, das popula&ccedil;&otilde;es ind&iacute;genas sul-americanas, enfatizando o exame de suas elabora&ccedil;&otilde;es m&iacute;ticas, ritual&iacute;sticas e religiosas e a an&aacute;lise da teoria do parentesco.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">MONOGRAFIA</P>
+</B><P ALIGN="JUSTIFY">Ementa: Produ&ccedil;&atilde;o e apresenta&ccedil;&atilde;o de monografia sobre um tema de ci&ecirc;ncias sociais, sob orienta&ccedil;&atilde;o docente.</P>
+<B><P ALIGN="CENTER"></P>
+<P ALIGN="JUSTIFY">PSICOLOGIA DA EDUCA&Ccedil;&Atilde;O</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo das vari&aacute;veis que interferem no processo de desenvolvimento e aprendizagem.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">PR&Aacute;TICA DE ENSINO EM CI&Ecirc;NCIAS SOCIAIS I</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo das Ci&ecirc;ncias Sociais e suas implica&ccedil;&otilde;es no processo educativo. Compreens&atilde;o cr&iacute;tica e contextualizada da pr&aacute;tica do ensino de sociologia na educa&ccedil;&atilde;o b&aacute;sica. Habilita&ccedil;&atilde;o ao exerc&iacute;cio da doc&ecirc;ncia em Ci&ecirc;ncias Sociais.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">DID&Aacute;TICA</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo do processo ensino-aprendizagem, abordando as vari&aacute;veis relativas &agrave;s atividades docentes, bem como as t&eacute;cnicas de planejamento, orienta&ccedil;&atilde;o e avalia&ccedil;&atilde;o da aprendizagem.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">ESTRUTURA E FUNCIONAMENTO DA EDUCA&Ccedil;&Atilde;O BRASILEIRA</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo da estrutura da educa&ccedil;&atilde;o brasileira, com &ecirc;nfase nos aspectos legais, estruturais e t&eacute;cnico-administrativos, em sua evolu&ccedil;&atilde;o hist&oacute;rica.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">PR&Aacute;TICA DE ENSINO EM CI&Ecirc;NCIAS SOCIAIS II</P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo das Ci&ecirc;ncias Sociais e suas implica&ccedil;&otilde;es no processo educativo. Compreens&atilde;o cr&iacute;tica de ensino de sociologia no contexto da &aacute;rea de Sociedade e Cultura do ensino m&eacute;dio.</P>
+<B><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+<P ALIGN="CENTER">DISCIPLINAS OPTATIVAS (*)</P>
+<P><A NAME="_Toc434135528"></P>
+<P>N&Uacute;CLEO DE CI&Ecirc;NCIA POL&Iacute;TICA</B> <B>I</P>
+</B><P ALIGN="JUSTIFY"></A>Ementa:&nbsp;Estudo das principais tem&aacute;ticas da ci&ecirc;ncia pol&iacute;tica referentes &agrave; organiza&ccedil;&atilde;o estatal e os processos pol&iacute;ticos contempor&acirc;neos: pol&iacute;ticas p&uacute;blicas e processos decis&oacute;rios, partidos e sistemas partid&aacute;rios, rela&ccedil;&otilde;es pol&iacute;ticas no mercosul. </P>
+</FONT><B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"><A NAME="_Toc434135529"></P>
+<P ALIGN="RIGHT">..../</P>
+</FONT><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+</FONT><FONT FACE="Arial" SIZE=2><P>/....Anexo II da Res. 065/99-CEP&#9;&#9;&#9;&#9;&#9;&#9;                       fl. 08</P>
+</B></FONT><FONT FACE="Arial" SIZE=3>
+<B><P ALIGN="JUSTIFY">&nbsp;</P>
+<P ALIGN="JUSTIFY">N&Uacute;CLEO DE CI&Ecirc;NCIA  POL&Iacute;TICA II</A>  </P>
+</B><P ALIGN="JUSTIFY">Ementa:&nbsp;Estudo das transforma&ccedil;&otilde;es do Brasil contempor&acirc;neo, a partir das manifesta&ccedil;&otilde;es pol&iacute;ticas ocorridas no interior da sociedade: movimentos populares, sindical e os movimentos culturais.</P>
+<B><P ALIGN="JUSTIFY"><A NAME="_Toc434135530"></P>
+<P ALIGN="JUSTIFY">N&Uacute;CLEO DE CI&Ecirc;NCIA POL&Iacute;TICA III</P>
+</B><P ALIGN="JUSTIFY"></A>Ementa:&nbsp;&#9;Estudos, a partir da diversidade te&oacute;rico-tem&aacute;tico da Ci&ecirc;ncia Pol&iacute;tica, dos diferentes m&eacute;todos e t&eacute;cnicas de pesquisa: comportamento eleitoral e opini&atilde;o p&uacute;blica, avalia&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas e marketing pol&iacute;tico.</P>
+<B><P ALIGN="JUSTIFY"><A NAME="_Toc434135531"></P>
+<P ALIGN="JUSTIFY">N&Uacute;CLEO  DE SOCIOLOGIA I</P>
+</B><P ALIGN="JUSTIFY"></A>Ementa:&nbsp;Estudo dos movimentos sociais rurais brasileiros, abordando desde movimentos milenaristas e messi&acirc;nicos, at&eacute;  os novos movimentos sociais agr&aacute;rios, no contexto da moderniza&ccedil;&atilde;o da agricultura.</P>
+<B><P ALIGN="JUSTIFY"><A NAME="_Toc434135532"></P>
+<P ALIGN="JUSTIFY">N&Uacute;CLEO DE SOCIOLOGIA II</P>
+</B><P ALIGN="JUSTIFY"></A>Ementa:&nbsp;O Estudo da sociedade contempor&acirc;nea: capitalismo e p&oacute;s-capitalismo analisados atrav&eacute;s dos contornos hist&oacute;rico-sociol&oacute;gicos  dados pelas revolu&ccedil;&otilde;es Russa e Cubana.</P>
+<B><P ALIGN="JUSTIFY"><A NAME="_Toc434135533"></P>
+<P ALIGN="JUSTIFY">N&Uacute;CLEO DE SOCIOLOGIA III</P>
+</B><P ALIGN="JUSTIFY"></A>Ementa:&nbsp;Estudo das rela&ccedil;&otilde;es entre as Ci&ecirc;ncias Sociais e a Literatura, considerando esta &uacute;ltima como mais uma fonte de an&aacute;lise para as Ci&ecirc;ncias Sociais.</P>
+<B><P ALIGN="JUSTIFY"><A NAME="_Toc434135534"></P>
+<P ALIGN="JUSTIFY">N&Uacute;CLEO DE SOCIOLOGIA IV</P>
+</B><P ALIGN="JUSTIFY"></A>Ementa:&nbsp;Estudo das rela&ccedil;&otilde;es entre o Estado, classes sociais e os sindicatos no Brasil. Impacto das transforma&ccedil;&otilde;es tecnol&oacute;gicas no mundo do trabalho</P>
+<B><P ALIGN="JUSTIFY"><A NAME="_Toc434135535"></P>
+<P ALIGN="JUSTIFY">N&Uacute;CLEO DE ANTROPOLOGIA I</P>
+</B><P ALIGN="JUSTIFY"></A>Ementa:&nbsp;Estudo da antropologia no Brasil: arqueologia da produ&ccedil;&atilde;o intelectual brasileira e apresenta&ccedil;&atilde;o dos m&eacute;todos e t&eacute;cnicas utilizados nas pesquisas antropol&oacute;gicas </P>
+<B><P ALIGN="JUSTIFY"><A NAME="_Toc434135536"></P>
+<P ALIGN="JUSTIFY">N&Uacute;CLEO DE ANTROPOLOGIA II</P>
+</B><P ALIGN="JUSTIFY"></A>Ementa:&nbsp;Estudo das diferentes formula&ccedil;&otilde;es da teoria da identidade e suas rela&ccedil;&otilde;es com outras dimens&otilde;es a ela associadas: cultura, sexualidade, etnicidade, classe social, religi&atilde;o, pol&iacute;tica e hist&oacute;ria.</P>
+<B><P ALIGN="JUSTIFY"><A NAME="_Toc434135537"></P>
+<P ALIGN="JUSTIFY">N&Uacute;CLEO DE ANTROPOLOGIA III</P>
+</B><P ALIGN="JUSTIFY"></A>Ementa:&nbsp;Estudo da antropologia econ&ocirc;mica e pol&iacute;tica, enfatizando a perspectiva transcultural, hist&oacute;rico e pol&iacute;tica. Exame da organiza&ccedil;&atilde;o social, do poder pol&iacute;tico e processos pol&iacute;ticos na perspectiva comparativa entre &Aacute;frica e Am&eacute;rica</P>
+<DIR>
+
+</FONT><B><FONT FACE="Arial" SIZE=2><P ALIGN="JUSTIFY">(*)</B>  Ser&atilde;o ofertadas em um n&uacute;mero m&iacute;nimo de duas e de acordo com a disponibilidade e especialidade dos professores.</P>
+<B><P ALIGN="RIGHT"></P></DIR>
+
+<P ALIGN="RIGHT">..../</P>
+</B></FONT><FONT FACE="Arial" SIZE=3>
+</FONT><B><FONT FACE="Arial" SIZE=2><P>/...Res. n<U><SUP>o</U></SUP> 065/99-CEP</P>
+</B></FONT><FONT FACE="Arial" SIZE=3>
+</FONT><B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">ANEXO III</P>
+</B></FONT><FONT FACE="Arial" SIZE=3>
+<B><P ALIGN="CENTER">DEPARTAMENTALIZA&Ccedil;&Atilde;O DAS DISCIPLINAS DO CURSO DE CI&Ecirc;NCIAS SOCIAIS</P>
+</B>
+<P>&nbsp;</P>
+<B><P>DEPARTAMENTO DE ECONOMIA</P>
+</B><P ALIGN="JUSTIFY">Economia</P>
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">DEPARTAMENTO DE CI&Ecirc;NCIAS SOCIAIS</P>
+</B><P ALIGN="JUSTIFY">Introdu&ccedil;&atilde;o &agrave; Ci&ecirc;ncia Pol&iacute;tica</P>
+<P ALIGN="JUSTIFY">Hist&oacute;ria do Pensamento Antropol&oacute;gico I</P>
+<P ALIGN="JUSTIFY">Fundamentos da Teoria Sociol&oacute;gica</P>
+<P ALIGN="JUSTIFY">Epistemologia das Ci&ecirc;ncias Sociais</P>
+<P ALIGN="JUSTIFY">Institui&ccedil;&otilde;es e Pensamento Pol&iacute;tico no S&eacute;culo XIX</P>
+<P ALIGN="JUSTIFY">Hist&oacute;ria do Pensamento Antropol&oacute;gico II</P>
+<P ALIGN="JUSTIFY">Teoria Sociol&oacute;gica i</P>
+<P ALIGN="JUSTIFY">Pensamento Social Brasileiro </P>
+<P ALIGN="JUSTIFY">Filosofia</P>
+<P ALIGN="JUSTIFY">Forma&ccedil;&atilde;o do Estado Brasileiro </P>
+<P ALIGN="JUSTIFY">Teoria Sociol&oacute;gica II</P>
+<P ALIGN="JUSTIFY">M&eacute;todos e Tecnicas de Pesquisa em Ci&ecirc;ncias Sociais</P>
+<P ALIGN="JUSTIFY">Semin&aacute;rios de Pesquisa</P>
+<P ALIGN="JUSTIFY">Pensamento Pol&iacute;tico Contempor&acirc;neo </P>
+<P ALIGN="JUSTIFY">Antropologia das Sociedades Complexas</P>
+<P ALIGN="JUSTIFY">Etnologia Ind&iacute;gena</P>
+<P ALIGN="JUSTIFY">Monografia</P>
+<P ALIGN="JUSTIFY">Pr&aacute;tica de Ensino em Ci&ecirc;ncias Sociais I</P>
+<P ALIGN="JUSTIFY">Pr&aacute;tica de Ensino em Ci&ecirc;ncias Sociais II</P>
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">DEPARTAMENTO DE ESTAT&Iacute;STICA</P>
+</B><P ALIGN="JUSTIFY">Estat&iacute;stica</P>
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">DEPARTAMENTO DE GEOGRAFIA</P>
+</B><P ALIGN="JUSTIFY">Geografia Humana</P>
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">DEPARTAMENTO.DE HIST&Oacute;RIA</P>
+</B><P ALIGN="JUSTIFY">Hist&oacute;ria Geral</P>
+<P ALIGN="JUSTIFY">Hist&oacute;ria do Brasil</P>
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">DEPARTAMENTO DE LETRAS</P>
+</B><P ALIGN="JUSTIFY">Metodologia da Produ&ccedil;&atilde;o de Textos<B> </P>
+</B><P ALIGN="CENTER"></P>
+<B><P ALIGN="JUSTIFY">DEPARTAMENTO DE TEORIA E PR&Aacute;TICA DA EDUCA&Ccedil;&Atilde;O</P>
+</B><P ALIGN="JUSTIFY">Psicologia da Educa&ccedil;&atilde;o</P>
+<P ALIGN="JUSTIFY">Did&aacute;tica</P>
+<P ALIGN="JUSTIFY">Estrutura e Funcionamento da Educa&ccedil;&atilde;o Brasileira</P>
+
+</FONT><FONT SIZE=2><P>&nbsp;</P></FONT></BODY>
